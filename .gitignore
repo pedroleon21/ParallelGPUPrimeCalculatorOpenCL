@@ -3,3 +3,4 @@
 *.vcxproj*
 *.h
 utils.cpp
+*.sln
